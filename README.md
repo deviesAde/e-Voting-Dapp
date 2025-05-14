@@ -1,0 +1,2 @@
+# Rakyat Memilih
+"Rakyat Memilih" is a voting simulation application that leverages blockchain technology to ensure secure, transparent, and tamper-proof elections. The project simulates the voting process, allowing users to cast votes while ensuring the integrity of the results through blockchain's decentralized ledger. By utilizing blockchain, the project aims to enhance trust and reduce the risk of vote manipulation or fraud, providing a digital platform that mimics real-world voting scenarios with the added benefits of blockchain's transparency and immutability.
