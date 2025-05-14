@@ -1,7 +1,6 @@
 import { User } from "@/app/types";
 
-// Mock users for demonstration purposes
-// In a real application, this would be fetched from a database
+
 export const mockUsers: User[] = [
   {
     id: "1",
@@ -28,9 +27,9 @@ export const mockLogin = (email: string, password: string): User | null => {
   return user || null;
 };
 
-// Helper function to mock registration
+
 export const mockRegister = (name: string, email: string, voterId: string): User => {
-  // In a real app, this would create a new user in the database
+
   const newUser: User = {
     id: Math.random().toString(36).substring(2, 9),
     name,

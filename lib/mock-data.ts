@@ -1,6 +1,6 @@
 import { Candidate, Election } from "@/app/types";
 
-// Mock candidates
+
 export const mockCandidates: Candidate[] = [
   {
     id: "1",
@@ -40,7 +40,7 @@ export const mockCandidates: Candidate[] = [
   }
 ];
 
-// Mock elections
+
 export const mockElections: Election[] = [
   {
     id: "1",
